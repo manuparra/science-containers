@@ -1,4 +1,4 @@
-# skaha-carta
+# Scipy Notebook
 
 A notebook container built on jupyter/scipy-notebook 
 
